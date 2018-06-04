@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/geany-database
+bye bye microsoft. please visit https://git.osuv.de/m/geany-database
